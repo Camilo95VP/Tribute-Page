@@ -45,7 +45,8 @@ main{
     flex-wrap: wrap;
     /*text-align: center;*/
     justify-content: center;
-
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 
